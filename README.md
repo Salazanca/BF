@@ -1,4 +1,4 @@
-Short compiler I wrote for brainfuck on a whim, uploading here to share with some people
+Short interpreter I wrote for brainfuck on a whim, uploading here to share with some people
 Currently the file i/o does not work, and I do not care to fix it so that section is commented out
 Executes the brainfuck instructions in source, then prints out what the instructions were 
 To use, download the C file, compile it using your preferred compiler, then run it in a terminal
